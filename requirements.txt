@@ -1,0 +1,9 @@
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+pytz==2019.3
+requests==2.22.0
+tabulate==0.8.6
+urllib3==1.25.7
+virtualenv==16.7.9
+configparser
