@@ -18,9 +18,9 @@ Clone command: git clone https://github.com/aashsub90/food-truck-finder.git
 
 5. Source environment:
 
-- Execute: source env.sh
-
 - Execute: source food-truck-env/bin/activate
+
+- Execute: source env.sh
 
 5. Run command to get food trucks open at SF
 
