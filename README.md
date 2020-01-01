@@ -10,7 +10,7 @@ A command line tool to fetch all food trucks open in San Francisco at a given ti
 
 Clone command: git clone https://github.com/aashsub90/food-truck-finder.git
 
-2. Unzip food-truck-finder.zip
+2. Unzip food-truck-finder.zip or food-truck-finder-master.zip (if downloaded from github)
 
 3. Run setup.sh to create a virtualenv, env.sh file and the log folder:
 
