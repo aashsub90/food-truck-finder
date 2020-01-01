@@ -14,17 +14,17 @@ Clone command: git clone https://github.com/aashsub90/food-truck-finder.git
 
 3. Run setup.sh to create a virtualenv, env.sh file and the log folder:
 
-- ./setup.sh
+- Execute: ./setup.sh
 
 5. Source environment:
 
-- source env.sh
+- Execute: source env.sh
 
-- source food-truck-env/bin/activate
+- Execute: source food-truck-env/bin/activate
 
 5. Run command to get food trucks open at SF
 
-- food-truck-finder
+- Execute: food-truck-finder
 
 6. Logs can be found in logs/food_truck_finder.log
 
